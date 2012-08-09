@@ -1,0 +1,1560 @@
+[
+    {
+        "latitude": 32.843,
+        "date": {
+            "$date": 1338854400
+        },
+        "name": "Wally",
+        "longitude": -117.1507,
+        "description": "Siberian Husky"
+    },
+    {
+        "latitude": 32.9486,
+        "date": {
+            "$date": 1339372800
+        },
+        "name": "Choo",
+        "longitude": -117.1713,
+        "description": "Brittany"
+    },
+    {
+        "latitude": 32.9518,
+        "date": {
+            "$date": 1336435200
+        },
+        "name": "Woofer",
+        "longitude": -117.2094,
+        "description": "Fox Terrier"
+    },
+    {
+        "latitude": 32.9032,
+        "date": {
+            "$date": 1338595200
+        },
+        "name": "Chew",
+        "longitude": -117.1952,
+        "description": "German Shepard"
+    },
+    {
+        "latitude": 32.9467,
+        "date": {
+            "$date": 1336780800
+        },
+        "name": "Ruff",
+        "longitude": -117.2165,
+        "description": "Harrier"
+    },
+    {
+        "latitude": 32.9711,
+        "date": {
+            "$date": 1336348800
+        },
+        "name": "Chomp",
+        "longitude": -117.1275,
+        "description": "Bloodhound"
+    },
+    {
+        "latitude": 32.8308,
+        "date": {
+            "$date": 1339372800
+        },
+        "name": "Boof",
+        "longitude": -117.1357,
+        "description": "Irish Setter"
+    },
+    {
+        "latitude": 32.9498,
+        "date": {
+            "$date": 1338076800
+        },
+        "name": "Slim",
+        "longitude": -117.2357,
+        "description": "Pug"
+    },
+    {
+        "latitude": 32.8753,
+        "date": {
+            "$date": 1339286400
+        },
+        "name": "Sweetie",
+        "longitude": -117.2247,
+        "description": "German Pinscher"
+    },
+    {
+        "latitude": 32.9976,
+        "date": {
+            "$date": 1339545600
+        },
+        "name": "Buckley",
+        "longitude": -117.1517,
+        "description": "Russell Terrier"
+    },
+    {
+        "latitude": 32.8247,
+        "date": {
+            "$date": 1336867200
+        },
+        "name": "Eightball",
+        "longitude": -117.1908,
+        "description": "Russell Terrier"
+    },
+    {
+        "latitude": 32.9192,
+        "date": {
+            "$date": 1339027200
+        },
+        "name": "Cupcake",
+        "longitude": -117.1442,
+        "description": "Great Dane"
+    },
+    {
+        "latitude": 32.9186,
+        "date": {
+            "$date": 1341100800
+        },
+        "name": "Tuppence",
+        "longitude": -117.1216,
+        "description": "Weimaraner"
+    },
+    {
+        "latitude": 32.9009,
+        "date": {
+            "$date": 1337126400
+        },
+        "name": "Snuffy",
+        "longitude": -117.223,
+        "description": "Siberian Husky"
+    },
+    {
+        "latitude": 32.9061,
+        "date": {
+            "$date": 1343260800
+        },
+        "name": "Buttons",
+        "longitude": -117.2267,
+        "description": "Weimaraner"
+    },
+    {
+        "latitude": 32.9806,
+        "date": {
+            "$date": 1340409600
+        },
+        "name": "Bucky",
+        "longitude": -117.2105,
+        "description": "Poodle"
+    },
+    {
+        "latitude": 32.92,
+        "date": {
+            "$date": 1339200000
+        },
+        "name": "Cutie",
+        "longitude": -117.1476,
+        "description": "Greyhound"
+    },
+    {
+        "latitude": 32.9842,
+        "date": {
+            "$date": 1341446400
+        },
+        "name": "Gromit",
+        "longitude": -117.1584,
+        "description": "Terrier"
+    },
+    {
+        "latitude": 32.9044,
+        "date": {
+            "$date": 1342396800
+        },
+        "name": "So-Sue-Me",
+        "longitude": -117.2052,
+        "description": "German Shepard"
+    },
+    {
+        "latitude": 32.844,
+        "date": {
+            "$date": 1343347200
+        },
+        "name": "Pooky",
+        "longitude": -117.2315,
+        "description": "Boxer"
+    },
+    {
+        "latitude": 32.9138,
+        "date": {
+            "$date": 1342656000
+        },
+        "name": "Too",
+        "longitude": -117.2127,
+        "description": "Rottweiler"
+    },
+    {
+        "latitude": 32.8412,
+        "date": {
+            "$date": 1336089600
+        },
+        "name": "Punkie",
+        "longitude": -117.2125,
+        "description": "Collie"
+    },
+    {
+        "latitude": 32.9236,
+        "date": {
+            "$date": 1343001600
+        },
+        "name": "Bugsy",
+        "longitude": -117.119,
+        "description": "Shih Tzu"
+    },
+    {
+        "latitude": 32.836,
+        "date": {
+            "$date": 1341532800
+        },
+        "name": "Spic",
+        "longitude": -117.1596,
+        "description": "Cocker Spaniel"
+    },
+    {
+        "latitude": 32.9271,
+        "date": {
+            "$date": 1337299200
+        },
+        "name": "Ace",
+        "longitude": -117.2356,
+        "description": "Cocker Spaniel"
+    },
+    {
+        "latitude": 32.9142,
+        "date": {
+            "$date": 1339113600
+        },
+        "name": "Caddie",
+        "longitude": -117.1176,
+        "description": "Siberian Husky"
+    },
+    {
+        "latitude": 32.9115,
+        "date": {
+            "$date": 1336694400
+        },
+        "name": "Buster",
+        "longitude": -117.1559,
+        "description": "Yorkshire Terrier"
+    },
+    {
+        "latitude": 32.9832,
+        "date": {
+            "$date": 1339200000
+        },
+        "name": "Harley",
+        "longitude": -117.1549,
+        "description": "Border Collie"
+    },
+    {
+        "latitude": 32.8541,
+        "date": {
+            "$date": 1336521600
+        },
+        "name": "Gizmo",
+        "longitude": -117.2168,
+        "description": "Siberian Husky"
+    },
+    {
+        "latitude": 32.8502,
+        "date": {
+            "$date": 1339891200
+        },
+        "name": "Snookie",
+        "longitude": -117.1501,
+        "description": "Weimaraner"
+    },
+    {
+        "latitude": 32.9959,
+        "date": {
+            "$date": 1340236800
+        },
+        "name": "Jock",
+        "longitude": -117.1808,
+        "description": "Irish Setter"
+    },
+    {
+        "latitude": 32.8246,
+        "date": {
+            "$date": 1342742400
+        },
+        "name": "Aakarshan",
+        "longitude": -117.1343,
+        "description": "Terrier"
+    },
+    {
+        "latitude": 32.8663,
+        "date": {
+            "$date": 1341360000
+        },
+        "name": "Shep",
+        "longitude": -117.1479,
+        "description": "Lhasa Apso"
+    },
+    {
+        "latitude": 32.8532,
+        "date": {
+            "$date": 1338336000
+        },
+        "name": "Bow",
+        "longitude": -117.1974,
+        "description": "Maltese"
+    },
+    {
+        "latitude": 32.9873,
+        "date": {
+            "$date": 1339804800
+        },
+        "name": "Tuck",
+        "longitude": -117.2029,
+        "description": "Shih Tzu"
+    },
+    {
+        "latitude": 32.8131,
+        "date": {
+            "$date": 1340841600
+        },
+        "name": "Slobberchops",
+        "longitude": -117.2396,
+        "description": "Russell Terrier"
+    },
+    {
+        "latitude": 32.9805,
+        "date": {
+            "$date": 1337126400
+        },
+        "name": "Boomer",
+        "longitude": -117.2337,
+        "description": "Lhasa Apso"
+    },
+    {
+        "latitude": 32.8816,
+        "date": {
+            "$date": 1342310400
+        },
+        "name": "Spud",
+        "longitude": -117.1989,
+        "description": "Bulldog"
+    },
+    {
+        "latitude": 32.885,
+        "date": {
+            "$date": 1338422400
+        },
+        "name": "Aussie",
+        "longitude": -117.1481,
+        "description": "Brittany"
+    },
+    {
+        "latitude": 32.9794,
+        "date": {
+            "$date": 1338076800
+        },
+        "name": "Taffy",
+        "longitude": -117.1503,
+        "description": "Pointer"
+    },
+    {
+        "latitude": 32.8411,
+        "date": {
+            "$date": 1337385600
+        },
+        "name": "Miss",
+        "longitude": -117.131,
+        "description": "German Shepard"
+    },
+    {
+        "latitude": 32.8263,
+        "date": {
+            "$date": 1341792000
+        },
+        "name": "Spice",
+        "longitude": -117.2428,
+        "description": "Border Collie"
+    },
+    {
+        "latitude": 32.8182,
+        "date": {
+            "$date": 1339804800
+        },
+        "name": "JJ",
+        "longitude": -117.2149,
+        "description": "Harrier"
+    },
+    {
+        "latitude": 32.8423,
+        "date": {
+            "$date": 1340841600
+        },
+        "name": "Tonka",
+        "longitude": -117.1248,
+        "description": "Pug"
+    },
+    {
+        "latitude": 32.9699,
+        "date": {
+            "$date": 1343088000
+        },
+        "name": "Down",
+        "longitude": -117.1494,
+        "description": "Pug"
+    },
+    {
+        "latitude": 32.96,
+        "date": {
+            "$date": 1342569600
+        },
+        "name": "Bitty",
+        "longitude": -117.2312,
+        "description": "German Pinscher"
+    },
+    {
+        "latitude": 32.8498,
+        "date": {
+            "$date": 1340236800
+        },
+        "name": "Hunky",
+        "longitude": -117.1563,
+        "description": "Boxer"
+    },
+    {
+        "latitude": 32.8856,
+        "date": {
+            "$date": 1341964800
+        },
+        "name": "Pal",
+        "longitude": -117.1672,
+        "description": "Brittany"
+    },
+    {
+        "latitude": 32.9605,
+        "date": {
+            "$date": 1338595200
+        },
+        "name": "Smoochy",
+        "longitude": -117.1602,
+        "description": "Poodle"
+    },
+    {
+        "latitude": 32.9999,
+        "date": {
+            "$date": 1339804800
+        },
+        "name": "Me-Too",
+        "longitude": -117.1887,
+        "description": "Saint Bernard"
+    },
+    {
+        "latitude": 32.8064,
+        "date": {
+            "$date": 1339459200
+        },
+        "name": "Fido",
+        "longitude": -117.2144,
+        "description": "Yorkshire Terrier"
+    },
+    {
+        "latitude": 32.9304,
+        "date": {
+            "$date": 1342742400
+        },
+        "name": "Filo",
+        "longitude": -117.1902,
+        "description": "Fox Terrier"
+    },
+    {
+        "latitude": 32.9908,
+        "date": {
+            "$date": 1341964800
+        },
+        "name": "Shortnround",
+        "longitude": -117.2169,
+        "description": "Mastiff"
+    },
+    {
+        "latitude": 32.8088,
+        "date": {
+            "$date": 1338422400
+        },
+        "name": "Cuddles",
+        "longitude": -117.1418,
+        "description": "Pointer"
+    },
+    {
+        "latitude": 32.9077,
+        "date": {
+            "$date": 1336694400
+        },
+        "name": "Minty",
+        "longitude": -117.1455,
+        "description": "Terrier"
+    },
+    {
+        "latitude": 32.9251,
+        "date": {
+            "$date": 1343779200
+        },
+        "name": "Bones",
+        "longitude": -117.1634,
+        "description": "Harrier"
+    },
+    {
+        "latitude": 32.9759,
+        "date": {
+            "$date": 1343692800
+        },
+        "name": "Harley",
+        "longitude": -117.2343,
+        "description": "Cocker Spaniel"
+    },
+    {
+        "latitude": 32.898,
+        "date": {
+            "$date": 1337644800
+        },
+        "name": "Davidson",
+        "longitude": -117.1751,
+        "description": "Sheepdog"
+    },
+    {
+        "latitude": 32.9607,
+        "date": {
+            "$date": 1340064000
+        },
+        "name": "Sissy",
+        "longitude": -117.1489,
+        "description": "Pomeranian"
+    },
+    {
+        "latitude": 32.8666,
+        "date": {
+            "$date": 1343260800
+        },
+        "name": "Doodle",
+        "longitude": -117.2282,
+        "description": "Pomeranian"
+    },
+    {
+        "latitude": 32.898,
+        "date": {
+            "$date": 1336262400
+        },
+        "name": "Magnificat",
+        "longitude": -117.2235,
+        "description": "Shih Tzu"
+    },
+    {
+        "latitude": 32.918,
+        "date": {
+            "$date": 1336780800
+        },
+        "name": "Jaffa",
+        "longitude": -117.1865,
+        "description": "German Pinscher"
+    },
+    {
+        "latitude": 32.9894,
+        "date": {
+            "$date": 1338163200
+        },
+        "name": "Agro",
+        "longitude": -117.237,
+        "description": "Border Collie"
+    },
+    {
+        "latitude": 32.9893,
+        "date": {
+            "$date": 1341187200
+        },
+        "name": "Bingo",
+        "longitude": -117.1931,
+        "description": "Springer Spaniel"
+    },
+    {
+        "latitude": 32.9048,
+        "date": {
+            "$date": 1343606400
+        },
+        "name": "Footloose",
+        "longitude": -117.1591,
+        "description": "Shiba Inu"
+    },
+    {
+        "latitude": 32.9083,
+        "date": {
+            "$date": 1338681600
+        },
+        "name": "Kosta",
+        "longitude": -117.1551,
+        "description": "Pekingese"
+    },
+    {
+        "latitude": 32.9727,
+        "date": {
+            "$date": 1341878400
+        },
+        "name": "Hooch",
+        "longitude": -117.1248,
+        "description": "Brittany"
+    },
+    {
+        "latitude": 32.8212,
+        "date": {
+            "$date": 1343347200
+        },
+        "name": "Sunny",
+        "longitude": -117.2024,
+        "description": "Springer Spaniel"
+    },
+    {
+        "latitude": 32.8242,
+        "date": {
+            "$date": 1338249600
+        },
+        "name": "Wuffy",
+        "longitude": -117.1953,
+        "description": "Shiba Inu"
+    },
+    {
+        "latitude": 32.8168,
+        "date": {
+            "$date": 1343088000
+        },
+        "name": "Me",
+        "longitude": -117.2466,
+        "description": "Shiba Inu"
+    },
+    {
+        "latitude": 32.9529,
+        "date": {
+            "$date": 1337212800
+        },
+        "name": "Tassie",
+        "longitude": -117.2343,
+        "description": "Great Dane"
+    },
+    {
+        "latitude": 32.9207,
+        "date": {
+            "$date": 1343347200
+        },
+        "name": "Dash",
+        "longitude": -117.171,
+        "description": "Irish Setter"
+    },
+    {
+        "latitude": 32.8,
+        "date": {
+            "$date": 1339113600
+        },
+        "name": "Taz",
+        "longitude": -117.2405,
+        "description": "Greyhound"
+    },
+    {
+        "latitude": 32.8119,
+        "date": {
+            "$date": 1336780800
+        },
+        "name": "Fetch",
+        "longitude": -117.242,
+        "description": "Shih Tzu"
+    },
+    {
+        "latitude": 32.9699,
+        "date": {
+            "$date": 1343606400
+        },
+        "name": "Teddy",
+        "longitude": -117.2142,
+        "description": "Harrier"
+    },
+    {
+        "latitude": 32.8721,
+        "date": {
+            "$date": 1341014400
+        },
+        "name": "Chico",
+        "longitude": -117.119,
+        "description": "Border Collie"
+    },
+    {
+        "latitude": 32.8869,
+        "date": {
+            "$date": 1341878400
+        },
+        "name": "Bow",
+        "longitude": -117.2301,
+        "description": "Mastiff"
+    },
+    {
+        "latitude": 32.8044,
+        "date": {
+            "$date": 1336435200
+        },
+        "name": "Back",
+        "longitude": -117.2197,
+        "description": "Bulldog"
+    },
+    {
+        "latitude": 32.8791,
+        "date": {
+            "$date": 1340582400
+        },
+        "name": "When",
+        "longitude": -117.2031,
+        "description": "Siberian Husky"
+    },
+    {
+        "latitude": 32.9142,
+        "date": {
+            "$date": 1336089600
+        },
+        "name": "Him",
+        "longitude": -117.1543,
+        "description": "Bloodhound"
+    },
+    {
+        "latitude": 32.9995,
+        "date": {
+            "$date": 1338076800
+        },
+        "name": "Tie",
+        "longitude": -117.1688,
+        "description": "Maltese"
+    },
+    {
+        "latitude": 32.86,
+        "date": {
+            "$date": 1337385600
+        },
+        "name": "Cyber",
+        "longitude": -117.1372,
+        "description": "Harrier"
+    },
+    {
+        "latitude": 32.9971,
+        "date": {
+            "$date": 1342915200
+        },
+        "name": "Woofa",
+        "longitude": -117.1477,
+        "description": "Yorkshire Terrier"
+    },
+    {
+        "latitude": 32.8259,
+        "date": {
+            "$date": 1343174400
+        },
+        "name": "Bomber",
+        "longitude": -117.1481,
+        "description": "Greyhound"
+    },
+    {
+        "latitude": 32.8441,
+        "date": {
+            "$date": 1340064000
+        },
+        "name": "Jimbo",
+        "longitude": -117.1637,
+        "description": "Greyhound"
+    },
+    {
+        "latitude": 32.8058,
+        "date": {
+            "$date": 1342656000
+        },
+        "name": "Schatzi",
+        "longitude": -117.2271,
+        "description": "Sheepdog"
+    },
+    {
+        "latitude": 32.8018,
+        "date": {
+            "$date": 1339027200
+        },
+        "name": "Scamp",
+        "longitude": -117.1677,
+        "description": "Irish Setter"
+    },
+    {
+        "latitude": 32.8636,
+        "date": {
+            "$date": 1343001600
+        },
+        "name": "Spick",
+        "longitude": -117.2262,
+        "description": "Bloodhound"
+    },
+    {
+        "latitude": 32.8719,
+        "date": {
+            "$date": 1341705600
+        },
+        "name": "Sniff",
+        "longitude": -117.2087,
+        "description": "Yorkshire Terrier"
+    },
+    {
+        "latitude": 32.9808,
+        "date": {
+            "$date": 1338249600
+        },
+        "name": "KC",
+        "longitude": -117.1543,
+        "description": "Sheepdog"
+    },
+    {
+        "latitude": 32.8159,
+        "date": {
+            "$date": 1341446400
+        },
+        "name": "Ball",
+        "longitude": -117.1191,
+        "description": "Boxer"
+    },
+    {
+        "latitude": 32.8212,
+        "date": {
+            "$date": 1343606400
+        },
+        "name": "Foot",
+        "longitude": -117.124,
+        "description": "Weimaraner"
+    },
+    {
+        "latitude": 32.874,
+        "date": {
+            "$date": 1338336000
+        },
+        "name": "Cobber",
+        "longitude": -117.2266,
+        "description": "Springer Spaniel"
+    },
+    {
+        "latitude": 32.9527,
+        "date": {
+            "$date": 1337904000
+        },
+        "name": "Shiner",
+        "longitude": -117.2005,
+        "description": "Maltese"
+    },
+    {
+        "latitude": 32.8159,
+        "date": {
+            "$date": 1339804800
+        },
+        "name": "Rolly",
+        "longitude": -117.2001,
+        "description": "Pointer"
+    },
+    {
+        "latitude": 32.9019,
+        "date": {
+            "$date": 1341273600
+        },
+        "name": "Kit",
+        "longitude": -117.1774,
+        "description": "Maltese"
+    },
+    {
+        "latitude": 32.9621,
+        "date": {
+            "$date": 1340668800
+        },
+        "name": "Migraine",
+        "longitude": -117.199,
+        "description": "Siberian Husky"
+    },
+    {
+        "latitude": 32.9413,
+        "date": {
+            "$date": 1336953600
+        },
+        "name": "Bubba",
+        "longitude": -117.1922,
+        "description": "Pomeranian"
+    },
+    {
+        "latitude": 32.8801,
+        "date": {
+            "$date": 1339113600
+        },
+        "name": "Razor",
+        "longitude": -117.2107,
+        "description": "German Pinscher"
+    },
+    {
+        "latitude": 32.8132,
+        "date": {
+            "$date": 1336348800
+        },
+        "name": "Purrty",
+        "longitude": -117.118,
+        "description": "Springer Spaniel"
+    },
+    {
+        "latitude": 32.8641,
+        "date": {
+            "$date": 1340409600
+        },
+        "name": "Sniper",
+        "longitude": -117.2428,
+        "description": "Fox Terrier"
+    },
+    {
+        "latitude": 32.8111,
+        "date": {
+            "$date": 1336435200
+        },
+        "name": "TJ",
+        "longitude": -117.2472,
+        "description": "Pekingese"
+    },
+    {
+        "latitude": 32.848,
+        "date": {
+            "$date": 1341619200
+        },
+        "name": "Abbott",
+        "longitude": -117.1927,
+        "description": "German Shepard"
+    },
+    {
+        "latitude": 32.9637,
+        "date": {
+            "$date": 1338595200
+        },
+        "name": "Whatsit",
+        "longitude": -117.1451,
+        "description": "Russell Terrier"
+    },
+    {
+        "latitude": 32.9498,
+        "date": {
+            "$date": 1340496000
+        },
+        "name": "Legend",
+        "longitude": -117.2481,
+        "description": "Pug"
+    },
+    {
+        "latitude": 32.8707,
+        "date": {
+            "$date": 1337040000
+        },
+        "name": "Tic",
+        "longitude": -117.2216,
+        "description": "Sheepdog"
+    },
+    {
+        "latitude": 32.8069,
+        "date": {
+            "$date": 1336262400
+        },
+        "name": "Boofhead",
+        "longitude": -117.1978,
+        "description": "Sheepdog"
+    },
+    {
+        "latitude": 32.873,
+        "date": {
+            "$date": 1343174400
+        },
+        "name": "Snugglepuss",
+        "longitude": -117.2432,
+        "description": "Terrier"
+    },
+    {
+        "latitude": 32.9132,
+        "date": {
+            "$date": 1342137600
+        },
+        "name": "Bubbles",
+        "longitude": -117.1282,
+        "description": "Pug"
+    },
+    {
+        "latitude": 32.8684,
+        "date": {
+            "$date": 1336176000
+        },
+        "name": "Vang",
+        "longitude": -117.211,
+        "description": "Shiba Inu"
+    },
+    {
+        "latitude": 32.911,
+        "date": {
+            "$date": 1340755200
+        },
+        "name": "Chewpr",
+        "longitude": -117.222,
+        "description": "Cocker Spaniel"
+    },
+    {
+        "latitude": 32.9782,
+        "date": {
+            "$date": 1339200000
+        },
+        "name": "Irish",
+        "longitude": -117.1266,
+        "description": "Springer Spaniel"
+    },
+    {
+        "latitude": 32.9788,
+        "date": {
+            "$date": 1337040000
+        },
+        "name": "Lovey",
+        "longitude": -117.1647,
+        "description": "Russell Terrier"
+    },
+    {
+        "latitude": 32.9735,
+        "date": {
+            "$date": 1340668800
+        },
+        "name": "Tuffy",
+        "longitude": -117.1619,
+        "description": "Fox Terrier"
+    },
+    {
+        "latitude": 32.8909,
+        "date": {
+            "$date": 1338595200
+        },
+        "name": "Bo",
+        "longitude": -117.2181,
+        "description": "Great Dane"
+    },
+    {
+        "latitude": 32.9704,
+        "date": {
+            "$date": 1336780800
+        },
+        "name": "Nifty",
+        "longitude": -117.1464,
+        "description": "Bloodhound"
+    },
+    {
+        "latitude": 32.8894,
+        "date": {
+            "$date": 1339200000
+        },
+        "name": "Growlzer",
+        "longitude": -117.118,
+        "description": "German Shepard"
+    },
+    {
+        "latitude": 32.8723,
+        "date": {
+            "$date": 1340409600
+        },
+        "name": "Sport",
+        "longitude": -117.1551,
+        "description": "Brittany"
+    },
+    {
+        "latitude": 32.9186,
+        "date": {
+            "$date": 1342483200
+        },
+        "name": "Matty",
+        "longitude": -117.1259,
+        "description": "Weimaraner"
+    },
+    {
+        "latitude": 32.9089,
+        "date": {
+            "$date": 1338681600
+        },
+        "name": "Spunky",
+        "longitude": -117.2349,
+        "description": "Boxer"
+    },
+    {
+        "latitude": 32.9535,
+        "date": {
+            "$date": 1341446400
+        },
+        "name": "Tippy",
+        "longitude": -117.2326,
+        "description": "Mastiff"
+    },
+    {
+        "latitude": 32.8465,
+        "date": {
+            "$date": 1339977600
+        },
+        "name": "Tick",
+        "longitude": -117.2337,
+        "description": "Lhasa Apso"
+    },
+    {
+        "latitude": 32.8523,
+        "date": {
+            "$date": 1340582400
+        },
+        "name": "Snoop",
+        "longitude": -117.1312,
+        "description": "Shiba Inu"
+    },
+    {
+        "latitude": 32.9742,
+        "date": {
+            "$date": 1339545600
+        },
+        "name": "Wags",
+        "longitude": -117.1385,
+        "description": "Saint Bernard"
+    },
+    {
+        "latitude": 32.8321,
+        "date": {
+            "$date": 1340150400
+        },
+        "name": "Sickumm",
+        "longitude": -117.1431,
+        "description": "Pekingese"
+    },
+    {
+        "latitude": 32.9482,
+        "date": {
+            "$date": 1343692800
+        },
+        "name": "Tosca",
+        "longitude": -117.1598,
+        "description": "Poodle"
+    },
+    {
+        "latitude": 32.9698,
+        "date": {
+            "$date": 1339545600
+        },
+        "name": "AJ",
+        "longitude": -117.1384,
+        "description": "Bloodhound"
+    },
+    {
+        "latitude": 32.8179,
+        "date": {
+            "$date": 1341532800
+        },
+        "name": "Moppet",
+        "longitude": -117.2175,
+        "description": "Border Collie"
+    },
+    {
+        "latitude": 32.8331,
+        "date": {
+            "$date": 1343692800
+        },
+        "name": "Jak",
+        "longitude": -117.1422,
+        "description": "Pointer"
+    },
+    {
+        "latitude": 32.8873,
+        "date": {
+            "$date": 1336176000
+        },
+        "name": "Woody",
+        "longitude": -117.1906,
+        "description": "Shih Tzu"
+    },
+    {
+        "latitude": 32.8289,
+        "date": {
+            "$date": 1338076800
+        },
+        "name": "Libearty",
+        "longitude": -117.1947,
+        "description": "Rottweiler"
+    },
+    {
+        "latitude": 32.9103,
+        "date": {
+            "$date": 1341532800
+        },
+        "name": "Matey",
+        "longitude": -117.1717,
+        "description": "Fox Terrier"
+    },
+    {
+        "latitude": 32.8743,
+        "date": {
+            "$date": 1342310400
+        },
+        "name": "Chuck",
+        "longitude": -117.1389,
+        "description": "Boxer"
+    },
+    {
+        "latitude": 32.8978,
+        "date": {
+            "$date": 1341187200
+        },
+        "name": "Sugar",
+        "longitude": -117.1905,
+        "description": "Collie"
+    },
+    {
+        "latitude": 32.9804,
+        "date": {
+            "$date": 1340150400
+        },
+        "name": "Bozo",
+        "longitude": -117.2112,
+        "description": "Pekingese"
+    },
+    {
+        "latitude": 32.9949,
+        "date": {
+            "$date": 1340582400
+        },
+        "name": "Thunderpants",
+        "longitude": -117.1333,
+        "description": "Irish Setter"
+    },
+    {
+        "latitude": 32.9116,
+        "date": {
+            "$date": 1340323200
+        },
+        "name": "Hurly",
+        "longitude": -117.1418,
+        "description": "Collie"
+    },
+    {
+        "latitude": 32.9535,
+        "date": {
+            "$date": 1342742400
+        },
+        "name": "Geordie",
+        "longitude": -117.2311,
+        "description": "Saint Bernard"
+    },
+    {
+        "latitude": 32.8319,
+        "date": {
+            "$date": 1340236800
+        },
+        "name": "Le",
+        "longitude": -117.1694,
+        "description": "Pomeranian"
+    },
+    {
+        "latitude": 32.8134,
+        "date": {
+            "$date": 1336694400
+        },
+        "name": "Toad",
+        "longitude": -117.2374,
+        "description": "Pomeranian"
+    },
+    {
+        "latitude": 32.8391,
+        "date": {
+            "$date": 1337644800
+        },
+        "name": "Chain",
+        "longitude": -117.2255,
+        "description": "Terrier"
+    },
+    {
+        "latitude": 32.8451,
+        "date": {
+            "$date": 1342742400
+        },
+        "name": "Crankie",
+        "longitude": -117.1429,
+        "description": "German Pinscher"
+    },
+    {
+        "latitude": 32.8457,
+        "date": {
+            "$date": 1337299200
+        },
+        "name": "Fella",
+        "longitude": -117.1493,
+        "description": "Poodle"
+    },
+    {
+        "latitude": 32.9396,
+        "date": {
+            "$date": 1337817600
+        },
+        "name": "Buzz",
+        "longitude": -117.2167,
+        "description": "Shiba Inu"
+    },
+    {
+        "latitude": 32.8658,
+        "date": {
+            "$date": 1339200000
+        },
+        "name": "Roscoe",
+        "longitude": -117.2448,
+        "description": "Great Dane"
+    },
+    {
+        "latitude": 32.9138,
+        "date": {
+            "$date": 1336953600
+        },
+        "name": "Howie",
+        "longitude": -117.1711,
+        "description": "Bulldog"
+    },
+    {
+        "latitude": 32.9747,
+        "date": {
+            "$date": 1337126400
+        },
+        "name": "Kosta",
+        "longitude": -117.2443,
+        "description": "Mastiff"
+    },
+    {
+        "latitude": 32.8379,
+        "date": {
+            "$date": 1336867200
+        },
+        "name": "By",
+        "longitude": -117.1536,
+        "description": "Saint Bernard"
+    },
+    {
+        "latitude": 32.8715,
+        "date": {
+            "$date": 1338595200
+        },
+        "name": "CJ",
+        "longitude": -117.2206,
+        "description": "Collie"
+    },
+    {
+        "latitude": 32.8094,
+        "date": {
+            "$date": 1340668800
+        },
+        "name": "Ken",
+        "longitude": -117.1663,
+        "description": "Lhasa Apso"
+    },
+    {
+        "latitude": 32.9611,
+        "date": {
+            "$date": 1338940800
+        },
+        "name": "Butch",
+        "longitude": -117.2253,
+        "description": "Fox Terrier"
+    },
+    {
+        "latitude": 32.9072,
+        "date": {
+            "$date": 1337644800
+        },
+        "name": "Duffy",
+        "longitude": -117.2439,
+        "description": "Rottweiler"
+    },
+    {
+        "latitude": 32.8628,
+        "date": {
+            "$date": 1340409600
+        },
+        "name": "Topaz",
+        "longitude": -117.2314,
+        "description": "Russell Terrier"
+    },
+    {
+        "latitude": 32.8404,
+        "date": {
+            "$date": 1343001600
+        },
+        "name": "Chopper",
+        "longitude": -117.181,
+        "description": "Bulldog"
+    },
+    {
+        "latitude": 32.8684,
+        "date": {
+            "$date": 1339027200
+        },
+        "name": "Marbles",
+        "longitude": -117.1618,
+        "description": "Yorkshire Terrier"
+    },
+    {
+        "latitude": 32.9692,
+        "date": {
+            "$date": 1337126400
+        },
+        "name": "Bubby",
+        "longitude": -117.1394,
+        "description": "Rottweiler"
+    },
+    {
+        "latitude": 32.9007,
+        "date": {
+            "$date": 1341878400
+        },
+        "name": "Dice",
+        "longitude": -117.1275,
+        "description": "Mastiff"
+    },
+    {
+        "latitude": 32.8862,
+        "date": {
+            "$date": 1336608000
+        },
+        "name": "Death",
+        "longitude": -117.2212,
+        "description": "Lhasa Apso"
+    },
+    {
+        "latitude": 32.9009,
+        "date": {
+            "$date": 1342051200
+        },
+        "name": "Deefor",
+        "longitude": -117.165,
+        "description": "Maltese"
+    },
+    {
+        "latitude": 32.8694,
+        "date": {
+            "$date": 1339200000
+        },
+        "name": "Pandemonium",
+        "longitude": -117.1279,
+        "description": "Bulldog"
+    },
+    {
+        "latitude": 32.883,
+        "date": {
+            "$date": 1343520000
+        },
+        "name": "DJ",
+        "longitude": -117.2361,
+        "description": "Pekingese"
+    },
+    {
+        "latitude": 32.8742,
+        "date": {
+            "$date": 1336435200
+        },
+        "name": "Jerky",
+        "longitude": -117.1198,
+        "description": "Great Dane"
+    },
+    {
+        "latitude": 32.8867,
+        "date": {
+            "$date": 1342656000
+        },
+        "name": "Lucky",
+        "longitude": -117.1728,
+        "description": "Poodle"
+    },
+    {
+        "latitude": 32.8078,
+        "date": {
+            "$date": 1342656000
+        },
+        "name": "Worf",
+        "longitude": -117.2219,
+        "description": "Weimaraner"
+    },
+    {
+        "latitude": 32.8994,
+        "date": {
+            "$date": 1339891200
+        },
+        "name": "Xerox",
+        "longitude": -117.1481,
+        "description": "Saint Bernard"
+    },
+    {
+        "latitude": 32.9641,
+        "date": {
+            "$date": 1337385600
+        },
+        "name": "Snags",
+        "longitude": -117.2281,
+        "description": "Shih Tzu"
+    },
+    {
+        "latitude": 32.8331,
+        "date": {
+            "$date": 1343433600
+        },
+        "name": "Bazza",
+        "longitude": -117.1226,
+        "description": "Collie"
+    },
+    {
+        "latitude": 32.9858,
+        "date": {
+            "$date": 1342656000
+        },
+        "name": "Mo",
+        "longitude": -117.119,
+        "description": "Cocker Spaniel"
+    },
+    {
+        "latitude": 32.8025,
+        "date": {
+            "$date": 1341619200
+        },
+        "name": "Smootchie",
+        "longitude": -117.2465,
+        "description": "Saint Bernard"
+    },
+    {
+        "latitude": 32.8458,
+        "date": {
+            "$date": 1343779200
+        },
+        "name": "Slobber",
+        "longitude": -117.1846,
+        "description": "Rottweiler"
+    },
+    {
+        "latitude": 32.8379,
+        "date": {
+            "$date": 1343174400
+        },
+        "name": "BJ",
+        "longitude": -117.1726,
+        "description": "Pointer"
+    },
+    {
+        "latitude": 32.9677,
+        "date": {
+            "$date": 1341705600
+        },
+        "name": "Rough",
+        "longitude": -117.1787,
+        "description": "Greyhound"
+    },
+    {
+        "latitude": 32.858,
+        "date": {
+            "$date": 1337299200
+        },
+        "name": "Tuff",
+        "longitude": -117.1465,
+        "description": "Yorkshire Terrier"
+    }
+]
+
