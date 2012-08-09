@@ -4,12 +4,12 @@
   "scripts": {
     "start": "server-nodejitsu.js"
   },
-  "version": "0.1.0-4",
+  "version": "0.1.0-5",
   "engines": {
     "node": "0.6.x"
   },
   "dependencies": {
-    "express": "*",
-    "mongoose": "*"
+    "express": "3.0.0rc2",
+    "mongoose": "3.0.0"
   }
 }
