@@ -5,15 +5,30 @@ var mongoose = require('mongoose');
 var app = express();
 
 //  Get the environment variables we need.
-var ipaddr  = process.env.OPENSHIFT_INTERNAL_IP;
-var port    = process.env.OPENSHIFT_INTERNAL_PORT || 80;
+var ipaddr  = process.env.VCAP_APP_HOST;
+var port    = process.env.PORT;
 var dbhost  = process.env.OPENSHIFT_NOSQL_DB_HOST;
 var dbport  = process.env.OPENSHIFT_NOSQL_DB_PORT;
 var dbuname = process.env.OPENSHIFT_NOSQL_DB_USERNAME;
 var dbpwd   = process.env.OPENSHIFT_NOSQL_DB_PASSWORD;
 
-// Establish connection to MongoDB
-mongoose.connect('mongodb://'+dbuname+':'+dbpwd+'@'+dbhost+':'+dbport+'/nodetest');
+if (process.env.VCAP_SERVICES){
+    srv = JSON.parse(process.env.VCAP_SERVICES);
+    cred = srv['mongodb-2.0'][0].credentials;
+    db = new mongo.Db(cred.db, new mongo.Server(cred.hostname, cred.port, {}), {});
+    console.log(cred);
+
+    config.mongo_host = cred.hostname;
+    config.mongo_port = cred.port;
+    config.mongb_db = cred.db;
+    
+    config.port = config.udp_port = process.env.VCAP_APP_PORT;
+    config.udp_address = process.env.VCAP_APP_HOST;
+
+    // Establish connection to MongoDB
+    mongoose.connect('mongodb://'+cred.hostname+':'+cred.port+'/'+cred.db);
+}
+
 app.configure(function () {
     app.use(express.bodyParser());
     app.use(express.methodOverride());
