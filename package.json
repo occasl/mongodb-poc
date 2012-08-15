@@ -1,7 +1,7 @@
 {
-  "name": "OpenShift-Sample-App",
-  "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "name": "nodejs-mongodb-poc",
+  "version": "0.0.1",
+  "description": "Sample Node.js MongoDB Application",
   "keywords": [
     "OpenShift",
     "Node.js",
@@ -25,7 +25,8 @@
   },
 
   "dependencies": {
-    "mongoose": "3.0.0"
+    "mongoose": "3.0.0",
+    "express": "3.0.0rc2"
   },
   "devDependencies": {},
   "bundleDependencies": [],
