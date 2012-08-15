@@ -4,7 +4,7 @@
   "scripts": {
     "start": "server-nodejitsu.js"
   },
-  "version": "0.1.0-6",
+  "version": "0.1.0-7",
   "engines": {
     "node": "0.6.x"
   },

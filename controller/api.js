@@ -25,7 +25,7 @@ exports.save = function(req, res) {
 exports.list = function(req, res) {
     DogTag.find(function(err, dogtag) {
 	res.setHeader('Content-Type', 'text/javascript;charset=UTF-8');
-        res.send('Ext.data.JsonP.callback1({"records":' +  JSON.stringify(dogtag) + '});');
+        res.send(req.query["callback"] + '({"records":' +  JSON.stringify(dogtag) + '});');
     });
 }
 
@@ -35,3 +35,12 @@ exports.show = (function(req, res) {
         res.send([{Dog: dogtag}]);
     })
 });
+
+
+exports.near = function(req, res) {
+    DogTag.find({coords : { $near : [req.params.lon, req.params.lat], $maxDistance : req.params.dist/68.91}}, function (error, dogtag) {        
+        res.setHeader('Content-Type', 'text/javascript;charset=UTF-8');
+        res.send(req.query["callback"] +'({"records":' + JSON.stringify(dogtag) + '});');
+    })
+}
+
