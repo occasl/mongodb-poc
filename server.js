@@ -7,14 +7,10 @@ var app = express();
 //  Get the environment variables we need.
 var ipaddr  = process.env.VCAP_APP_HOST;
 var port    = process.env.PORT;
-var dbhost  = process.env.OPENSHIFT_NOSQL_DB_HOST;
-var dbport  = process.env.OPENSHIFT_NOSQL_DB_PORT;
-var dbuname = process.env.OPENSHIFT_NOSQL_DB_USERNAME;
-var dbpwd   = process.env.OPENSHIFT_NOSQL_DB_PASSWORD;
 
 if (process.env.VCAP_SERVICES){
     srv = JSON.parse(process.env.VCAP_SERVICES);
-    cred = srv['mongodb-2.0'][0].credentials;
+    cred = srv['mongodb-1.8'][0].credentials;
     db = new mongo.Db(cred.db, new mongo.Server(cred.hostname, cred.port, {}), {});
     console.log(cred);
 
