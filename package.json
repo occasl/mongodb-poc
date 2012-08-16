@@ -13,7 +13,7 @@
     "email": "occasl@gmail.com",
     "url":  "http://openshift.redhat.com/"
   },
-  "homepage": "http://openshift.redhat.com/",
+  "homepage": "http://pettracker-loutilities.rhcloud.com/",
   "repository": {
     "type": "git",
     "url": "https://gitub.com/occasl/mongodb-poc"
